@@ -1,7 +1,6 @@
 package main
 
 import (
-	"encoding/json"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"log"
